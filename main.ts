@@ -13,7 +13,6 @@ async function main() {
 	while (running) {
 		console.log("DM me for info");
 		console.log("https://t.me/g0drlc");
-		console.log("solana-scripts.com");
 		console.log("\nMenu:");
 		console.log("1. Create Keypairs");
 		console.log("2. Distribute SOL/WSOL");
