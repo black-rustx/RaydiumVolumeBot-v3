@@ -4,10 +4,10 @@ Here’s a sample updated README file inspired by the format you provided:
 
 # 🚀 Solana Raydium Volume Bot V3
 
-![Solana](https://img.shields.io/badge/Solana-362D59?style=for-the-badge&logo=solana&logoColor=white)  
+![Solana](https://img.shields.io/badge/Solana-362D59?style=for-the-badge&logo=solana&logoColor=white)
+![Jupiter](https://img.shields.io/badge/Jupiter-FF6B35?style=for-the-badge&logo=jupiter&logoColor=white)
+![Jito](https://img.shields.io/badge/Jito-00A86B?style=for-the-badge&logo=jito&logoColor=white)
 An advanced tool for executing high-volume transactions on the Solana blockchain with enhanced CLI features for a seamless and efficient experience.
-
-![Raydium Volume Workflow](./images/raydium_volume_workflow.png)
 
 ---
 
@@ -145,13 +145,15 @@ This project is licensed under the **MIT License**. See the LICENSE file for det
 
 ## 💖 Support the Developer
 
-If you find this project helpful, please consider supporting the development:
+If you found this bot helpful and would like to support the development of more resources like this, consider tipping! Your contributions help keep the project alive and thriving.
 
-**Solana Wallet Address**: `jaDpUj6FzoQFtA5hCcgDwqnCFqHFcZKDSz71ke9zHZA`  
-**Ethereum Wallet Address**: `0x96aca495621E93c884A8cb054bB823Bc273C29Bb`
+**Solana Wallet Address:** `27uqtpRjpnDEiQ9SFJQKN2fEBQLEx3ptvJgGhV8AV83U`
+**ETH Wallet Address:** `0xd64EA7D33dd5a96A6522fc6b6621b515f5a11EE7`
 
-Thank you for your support! 🙌
+Thank you for your support!
 
----
+Happy swapping! If you have any questions or run into issues, please open an issue in the GitHub repository.
 
-Happy trading on Solana! If you encounter any issues, feel free to open a GitHub Issue or reach out directly.
+## 📞 Author
+
+Telegram: [@g0drlc](https://t.me/da1asin)
